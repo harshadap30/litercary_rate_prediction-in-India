@@ -10,16 +10,16 @@ Literacy rates serve as a key indicator of a region's educational progress and s
 To run this project locally, ensure you have the required packages installed. You can install them using the following command:
 
 - pip install pandas numpy matplotlib seaborn scikit-learn
-- 
+  
 ### Usage
 Clone this repository:
 
 - git clone https://github.com/your-username/predicting-literacy-rates.git
 - cd predicting-literacy-rates
-- 
+  
 Run the Jupyter notebook or Python script to explore the data analysis, visualization, and linear regression modeling.
 - jupyter notebook Literacy_Rate_Prediction.ipynb
-- 
+  
 Adjust the code as needed, experiment with feature engineering, and explore additional insights.
 
 ## Project Highlights
